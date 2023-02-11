@@ -1,0 +1,4 @@
+repository "Maggi VR Beat Saber@Singularity_Experience@cloud"
+  path "/"
+    br "/main"
+    co "/main"
